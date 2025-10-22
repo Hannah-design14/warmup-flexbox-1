@@ -28,7 +28,6 @@
     background-color: antiquewhite;
     max-width: 600px;
     margin: auto;
-    flex-direction: row-reverse;
 }
 
 .main {
