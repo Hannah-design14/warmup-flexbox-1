@@ -11,3 +11,34 @@
     align-items: center;
     padding: 20px;
 }
+
+.main-nav {
+    display: flex;
+    list-style-type: none;
+    padding: 20;
+    justify-content: center;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.main-content {
+    display: flex;
+    background-color: antiquewhite;
+    max-width: 600px;
+    margin: auto;
+    flex-direction: row-reverse;
+}
+
+.main {
+    padding: 20px;
+    background-color: blue;
+}
+
+.side-nav {
+    padding: 20px;
+    background-color: blueviolet;
+    margin-right: 20px;
+}
+
